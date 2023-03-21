@@ -1,0 +1,213 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en">
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+   <meta name="viewport" content="width=device-width, initial-scale=1.0">
+   <meta name="color-scheme" content="light dark">
+   <meta name="supported-color-schemes" content="light dark">
+	<title></title>
+   <style type="text/css">
+   	@import url('https://fonts.googleapis.com/css2?family=Lato:wght@300;400;700&display=swap');
+      table {
+			border-spacing: 0;
+		}
+      td {
+         padding: 0;
+      }
+      
+      img {
+         border: 0;
+      }
+     
+
+      @media screen and (max-width: 599.98px) {
+        
+      }
+      @media screen and (max-width: 399.98px) {
+        
+      }
+
+      /* Custom Dark Mode Colors */
+      :root {
+         color-scheme: light dark;
+         supported-color-schemes: light dark;
+      }
+      @media (prefers-color-scheme: dark) {
+         
+        
+      }
+   </style>
+   
+	
+	
+</head>
+<body style="Margin:0;padding:0;min-width:100%;background-color:#fafdfe;">
+   <center width="600px"  style="table-layout: fixed;background-color: #fafdfe;padding-bottom: 40px;">
+      <div align="center" style="max-width: 600px;background-color: #fafdfe;box-shadow: 0 0 10px rgba(0, 0, 0, .2);">
+         <!-- Preheader (remove comment) -->
+         <div style="font-size: 0px;color: #fafdfe;line-height: 1px;mso-line-height-rule:exactly;display: none;max-width: 0px;max-height: 0px;opacity: 0;overflow: hidden;mso-hide:all;">
+            <!-- Add Preheader Text Here (85-100 characters in length) -->
+         </div>
+         <!-- End Preheader (remove comment) -->
+         <table align="center" style="border-spacing:0;color:yellow;font-family: 'Lato',sans-serif, Arial, Helvetica;background-color: #fafdfe;Margin:0;padding:10px;width: 100%;max-width: 600px;" role="presentation">
+            <tr style="background-color: rgb(255, 255, 255);">
+               <td style="padding:0;background-color: red;">
+                  <table width="100%" style="border-spacing:0;background-color: rgb(255, 255, 255);" role="presentation">
+                     <tr style="background-color: #fafdfe;">
+                        <td width="50%" style="background-color: #fafdfe;">
+                           <img width="70px" style="padding: 7px 0px;" src="https://i.ibb.co/K6CGTCT/PRIME-53-PXW.png">
+                        </td>
+                        <td>
+                           <p align="right" style="color: black;font-weight: 500;padding: 7px 0px;">Order Confirmation</p>
+                        </td>
+                     </tr>
+                  </table>
+               </td>
+            </tr>
+            <tr>
+               <td height="3"  style="background-color: rgb(126, 126, 126);opacity: .5;"></td>
+            </tr>
+            <tr>
+               <td>
+                  <p style="color:orange;margin: 0;padding-top: 20px;">Hello Isaac,</p>
+               </td>
+            </tr>
+            <tr>
+               <td>
+                  <p style="color:black;font-size:13px;padding-bottom: 20px;margin:0;"> Thank you for Shopping with us. you can find all of your new and previous Amazon Video Purchases - Movies, TV episodes and unexpired movie rentals - in <span style="color: blue;">Your Video Library</span> </p>
+               </td>
+            </tr>
+            <tr>
+               <td height="3"  style="background-color: black;"></td>
+            </tr>
+            <tr style="background-color: rgb(234, 234, 234);display: flex;z-index: 1;position: relative;">
+               <td style="position: relative;z-index: 5;">
+                  <p style="color: black;font-size:13px;z-index:2;padding:8px 8px 0px 8px;margin: 4px;z-index: 25;">Instantly watch your videos anywhere with your Amazon Fire TV, Kindle Fire , Ipad, Roku, Playstation, Xbox, Wii, PC, Mac, or compatible TV's, Blu Ray Players and set-top boxes.</p>
+                  <p style="color: rgb(0, 136, 239);font-size:13px;padding-left: 12px;cursor: pointer;">Learn More</p>
+               </td>
+            </tr>
+            <tr>
+               <td style="padding-top: 20px;">
+                  <!--[if (gte mso 9)|(IE)]>
+                  <table align="center" style="background-color: rgb(255, 255, 255);">
+                  <tr style="background-color: rgb(255, 255, 255);">
+                  <td style="background-color: rgb(255, 255, 255);">
+                  <![endif]-->
+                  <table width="100%" style="border-spacing: 0;background-color: rgb(255, 255, 255);">
+                     <tr>
+                        <td>
+                           <p style="color: orange;margin: 0;padding-bottom: 2px;">Order Details</p>
+                        </td>
+                     </tr>
+                     <tr>
+                        <td height="1"  style="background-color: rgb(171, 171, 171);"></td>
+                     </tr>
+                     <tr width="100%">
+                        <td style="padding-top: 10px;">
+                           <p style="color: black;font-size: 12px;margin:0;">Order #<a href="#">DD1-6942211-2521820</a></p>
+                           <p style="color: black;font-size: 12px;margin:0;">Placed on Tuesday, January 31,2023</p>
+                        </td>
+                     </tr>
+                  </table>
+                  <!--[if (gte mso 9)|(IE)]>
+                  </td>
+                  </tr>
+                  <![endif]-->
+                  <table width="100%" style="background-color: rgb(255, 255, 255);">
+                     <tr>
+                        <td width="50%" style="padding:10px 0px;">
+                         <a rel="noopener" target="_blank" href="https://www.litmus.com/" style="background-color: #1F7F4C; font-size: 18px; font-family: Helvetica, Arial, sans-serif; font-weight: bold; text-decoration: none; padding: 14px 20px; color: #ffffff; border-radius: 5px; display: inline-block; mso-padding-alt: 0;">
+                              <!--[if mso]>
+                              <i style="letter-spacing: 25px; mso-font-width: -100%; mso-text-raise: 30pt;">&nbsp;</i>
+                              <![endif]-->
+                              <span style="mso-text-raise: 15pt;">View Order Details &rarr;</span>
+                              <!--[if mso]>
+                              <i style="letter-spacing: 25px; mso-font-width: -100%;">&nbsp;</i>
+                              <![endif]-->
+                          </a>
+                        </td>
+                        <td align="right" width="50%" style="padding: 20px;">
+                           <p style="margin:0;color: black;font-weight: 300;">Item subtotal: $5.99</p>
+                           <p style="margin:0;color: black;font-weight: 500;">Total Before Tax: $5.99</p>
+                           <p style="margin:0;color: black;font-weight: 400;">Tax Collected: $0.49</p>
+                           <p style="margin:0;color: black;font-weight: 600;">Grand Total: $6.48</p>
+                        </td>
+                     </tr>
+                  </table>
+                  <tr>
+                     <td height="1" style="background-color: rgb(186, 186, 186);"></td>
+                  </tr>    
+               </td>
+            </tr>
+            <tr>
+               <td>
+                  <table>
+                     <tr>
+                        <td style="padding-bottom: 15px;">
+                           <p style="color: black;font-size: 13px;margin: 20px 0 0 0 ;">You can update your device and settings in the <a href="#">Amazon Video Settings and Devices page</a></p>
+                           <p style="color: black;font-size: 13px;margin: 0;">Learn more about amazon video in <a href="#">Help</a></p>
+                        </td>
+                     </tr>
+                     <tr>
+                        <td width="600px">
+                           <img width="100%" src="https://i.ibb.co/C9sQkh3/PROMO-BOX-2.png">
+                        </td>
+                     </tr>
+                     <tr>
+                        <td style="padding-bottom: 15px;">
+                           <p style="color: black;font-size: 13px;margin: 20px 0 0 0 ;font-weight: 500;">We hope to see you again soon!</p>
+                           <p style="color: black;font-size: 13px;margin: 0;font-weight: 600;font-size:15px;padding-top: 5px;">Amazon.com</p>
+                        </td>
+                     </tr>
+                     <tr>
+                        <td height="1" style="background-color: rgb(186, 186, 186);"></td>
+                     </tr>
+                  </table>
+               </td>
+            </tr>
+            <tr>
+               <td>
+                  <table>
+                     <tr>
+                        <td>
+                           <p style="color: rgb(255, 111, 0);">Keep Shopping for</p>
+                        </td>
+                     </tr>
+                  </table>
+                  <table width="100%">
+                     <tr align="center">
+                        <td align="left" width="50%">
+                           <img width="150px" src="https://i.ibb.co/1z1kr09/GPU.jpg">
+                           <p style="color: black;font-size: 10px;cursor: pointer;"><a href="#">MSI GeForce RTX 3090 Ti 24GB GDRR6X 384-Bit HDMI/DP Nvlink Tri-Frozr Ampere Architecture OC Graphics Card (RTX 3090 Ti Gaming X Trio 24G)</a></p>
+                           <p style="color: black;font-size: 10px;">$2,099 <img width="40px" src="https://i.ibb.co/jWhMkpv/prime-logo-2-tiny.png"></p>
+                        </td>
+                        <td align="left" width="50%">
+                           <img width="150px" style="margin: 0;" src="https://i.ibb.co/vjCCry9/LIAN-LI-PLUS-V2.jpg">
+                           <p style="color:black;font-size: 10px;"><a href="#3">Lian Li Strimer Plus V2 24 Pin (PW24-PV2) -Addressable RGB Power Extension Cable (Strimer L-Connect 3.0 Controller Included) - for Motherboard Connector, PW24-PV2 BLACK</a></p>
+                           <p style="color: black;font-size: 10px;">$69 <img width="40px" src="https://i.ibb.co/jWhMkpv/prime-logo-2-tiny.png"></p>
+                        </td>
+                     </tr>
+                  </table>
+               </td>
+            </tr>
+            <tr>
+               <td height="1" style="background-color: rgb(186, 186, 186);"></td>
+            </tr>
+            <tr>
+               <td>
+                  <table align="center">
+                     <tr>
+                        <td>
+                           <p style="color: black;font-size: 10px;">You can view your receipt or invoice by visiting the <a href="#">Order details</a> page</p>
+                           <p style="color: black;font-size: 10px;"></p>
+                        </td>
+                     </tr>
+                  </table>
+               </td>
+            </tr>
+         </table>
+      </div>
+   </center>
+</body>
+</html>
